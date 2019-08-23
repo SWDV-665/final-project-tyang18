@@ -1,11 +1,6 @@
 # Family App
 
-## Home
-Contains a list of my family members that can be added or removed. 
-
-Since this is an app for my personal use only, the way that members are added are unique to my knowledge. 
-
-### Use-case:
+## Use-case:
 To add a member, click the "Add member" buttom at the bottom of the card list. 
 
 Input the member's name, Date of Birth, Image location, and Page link:
@@ -17,7 +12,14 @@ Members can be editted or removed as well.
 
 Finally, click the member picture on the list to go to their personal page. 
 
-### Personal Pages
+
+## Home
+Contains a list of my family members that can be added or removed. 
+
+Since this is an app for my personal use only, the way that members are added are unique to my knowledge. 
+
+
+## Personal Pages
 Each member will have a pre-made page already and more will be added on. 
 
 Each page has 3 cards with the first card holding personal information about the member.
