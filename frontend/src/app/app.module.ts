@@ -23,6 +23,9 @@ import { InputDialogServiceProvider } from '../providers/input-dialog-service/in
 import { SocialSharing } from '@ionic-native/social-sharing';
 import { HttpClientModule } from '@angular/common/http'; 
 
+import { Calendar } from '@ionic-native/calendar';
+
+
 
 @NgModule({
   declarations: [
@@ -68,7 +71,8 @@ import { HttpClientModule } from '@angular/common/http';
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     FamilyServiceProvider,
     InputDialogServiceProvider,
-    SocialSharing
+    SocialSharing,
+    Calendar
   ]
 })
 export class AppModule {}
