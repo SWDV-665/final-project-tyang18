@@ -17,6 +17,6 @@
   "dependencies": {
     "intl": "^1.2.5",
     "ionic2-calendar": "^0.5.2",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
